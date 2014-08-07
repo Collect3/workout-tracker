@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  programId: 1
+  userId: 1
+
+two:
+  programId: 1
+  userId: 1

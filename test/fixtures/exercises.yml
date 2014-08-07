@@ -1,0 +1,33 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  also_known_as: MyString
+  exercise_type_id: 1
+  rating: 1
+  mechanics_type_id: 1
+  equipment_id: 1
+  level_id: 1
+  benefits: MyText
+  exercise_image_id: 1
+  anatomy_image_id: 1
+  has_timer_countdown: false
+  primary_muscle_id: 1
+  secondary_muscle_id: 1
+  metric_type_id: 1
+
+two:
+  name: MyString
+  also_known_as: MyString
+  exercise_type_id: 1
+  rating: 1
+  mechanics_type_id: 1
+  equipment_id: 1
+  level_id: 1
+  benefits: MyText
+  exercise_image_id: 1
+  anatomy_image_id: 1
+  has_timer_countdown: false
+  primary_muscle_id: 1
+  secondary_muscle_id: 1
+  metric_type_id: 1
